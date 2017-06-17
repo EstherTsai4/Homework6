@@ -1,0 +1,5 @@
+﻿  Complex.cpp
+c:\users\toest\documents\github\homework6\homework6\complex.cpp(152): warning C4172: returning address of local variable or temporary: temp
+c:\users\toest\documents\github\homework6\homework6\complex.cpp(160): warning C4172: returning address of local variable or temporary: temp
+  Homework6.vcxproj -> C:\Users\toest\Documents\GitHub\Homework6\Debug\Homework6.exe
+  Homework6.vcxproj -> C:\Users\toest\Documents\GitHub\Homework6\Debug\Homework6.pdb (Full PDB)
